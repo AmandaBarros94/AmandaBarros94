@@ -30,7 +30,7 @@
   <a href="https://mochajs.org" target="blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="35" height="35" /> </a> <a
     href="https://www.microsoft.com/en-us/sql-server" target="blank" rel="noreferrer"> <img
-      src="https://www.svgrepo.com/show/353229/microsoft-sql-server-logo.svg" alt="mssql" width="35" height="35" />
+      src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-1.png" alt="mssql" width="35" height="35" />
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt=" mysql" width="35" height="35" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
