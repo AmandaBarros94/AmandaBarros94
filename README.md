@@ -24,7 +24,7 @@
       alt="html5" width="28" height="28" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" largura="28" altura="28" /> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        alt="javascript" width="28" height="28" /> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="28" height="28" /> </a>
     <a href="https://mochajs.org" target="blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="28" height="28" /> </a> <a
@@ -48,8 +48,8 @@
 
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=amandabarros94&show_icons=true&locale=en&layout=compact"
-    alt="amandabarros94" /> </p>
+    alt="amandabarros94" width="240" /> </p>
 
 <p> <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=amandabarros94&show_icons=true&locale=en"
-    alt="amandabarros94" /> </p>
+    alt="amandabarros94"  width="240" /> </p>
