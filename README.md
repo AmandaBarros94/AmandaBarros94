@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Amanda</h1>
-<img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="300" align="right" />
+<img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="200" align="right" />
 <h3 align="left" >Tenho 27 anos, sou mãe, sou apaixonada por tecnologia. Escolhi a transição de carreira pra área de
   tecnologia, pois acredito que posso impactar a vida das pessoas de diversas formas. Estudo desenvolvimento web na
   trybe, uma escola que ensina a programação, aprender e trabalhar, desenvolvomente projetos usando como mais avançados
