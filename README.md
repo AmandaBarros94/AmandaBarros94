@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Amanda</h1>
-<h3 align="left">Tenho 27 anos, sou mãe, sou apaixonada por tecnologia. Escolhi a transição de carreira pra área de
+<h3 align="left" width="500" >Tenho 27 anos, sou mãe, sou apaixonada por tecnologia. Escolhi a transição de carreira pra área de
   tecnologia, pois acredito que posso impactar a vida das pessoas de diversas formas. Estudo desenvolvimento web na
   trybe, uma escola que ensina a programação, aprender e trabalhar, desenvolvomente projetos usando como mais avançados
   projetos de programação em relação a soft-skills, sou comunicativa, empática, semper disposto a ajudar. Tenho
