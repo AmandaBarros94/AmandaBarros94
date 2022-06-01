@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/AmandaBarros94/AmandaBarros94/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Olá 👋, me chamo Amanda</h1>
 <img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="200" align="right" />
