@@ -2,8 +2,8 @@
 <img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="200" align="right" />
 <h3 align="left" >Tenho 27 anos, sou mãe, sou apaixonada por tecnologia. Escolhi a transição de carreira pra área de
   tecnologia, pois acredito que posso impactar a vida das pessoas de diversas formas. Estudo desenvolvimento web na
-  trybe, uma escola que ensina a programação, aprender e trabalhar, desenvolvomente projetos usando como mais avançados
-  projetos de programação em relação a soft-skills, sou comunicativa, empática, semper disposto a ajudar. Tenho
+  trybe, uma escola que ensina a programação, aprender e trabalhar, desenvolvendo projetos usando como as mais avançadas linguagens de programação,
+  em relação a soft-skills, sou comunicativa, empática, sempre disposta a ajudar. Tenho
   conhecimento das metodologias ágeis Scrum e Kanban.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
