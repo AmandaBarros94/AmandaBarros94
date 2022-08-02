@@ -1,10 +1,16 @@
 <h1 align="left">Olá 👋, me chamo Amanda</h1>
 <img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="200" align="right" />
 <h3 align="left" >Tenho 27 anos, sou mãe, sou apaixonada por tecnologia. Escolhi a transição de carreira pra área de
-  tecnologia, pois acredito que posso impactar a vida das pessoas de diversas formas. Estudo desenvolvimento web na
-  trybe, uma escola que ensina a programação, aprender e trabalhar, desenvolvendo projetos usando como as mais avançadas linguagens de programação,
-  em relação a soft-skills, sou comunicativa, empática, sempre disposta a ajudar. Tenho
-  conhecimento das metodologias ágeis Scrum e Kanban.</h3>
+  tecnologia, pois acredito que posso impactar a vida das pessoas de diversas formas. Vim de uma área de atendimento e satisfação do cliente estou migrando para área de desenvolvimento Web e me apaixonei por testes de software, prezo a satisfação e a qualidade do cliente e do produto, focando sempre na melhoria. Possuo conhecimento em HTML, CSS e JavaScript moderno (ES6+). Conheciemento da biblioteca React e a biblioteca Redux.  Conhecimento em Bash e os sistemas de controle de versionamento Git e Github.Formada em Frontend.
+
+Estudo também backend e em breve ciências da computação.
+
+Apaixonada e me aprofundando na área de desenvolvimento de teste de software.
+Implementação de testes automatizados (unitários e de integração) utilizando Jest e React Testing Library, Atualmente estudando o Cypress.
+
+Em breve Engenheira de garantia de qualidade, especialista em testes automatizados, sempre aprendendo e trabalhando para melhorar o processo de desenvolvimento de software.
+
+Em relação a soft-skills, sou comunicativa, empática, sempre disposta a ajudar. Tenho conhecimento comprovado pelo linkedin das metologias ágeis Scrum e Kanban.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
