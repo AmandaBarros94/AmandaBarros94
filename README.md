@@ -9,7 +9,7 @@ Implementação de testes automatizados (unitários e de integração) utilizand
 
 Em breve Engenheira de garantia de qualidade, Analista de Teste de Software
  especialista em testes automatizados, sempre aprendendo e trabalhando para melhorar o processo de desenvolvimento de software.
-Estudando Atualmente na Ultima School
+Estudando Atualmente na Trybe e na Ultima School
 .</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
