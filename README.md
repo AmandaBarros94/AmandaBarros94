@@ -1,15 +1,13 @@
 <h1 align="left">Olá 👋, me chamo Amanda</h1>
 <img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" alt="programando" width="200" align="right" />
-<h3 align="left" >Vim de uma área de atendimento e satisfação do cliente estou migrando para área de desenvolvimento Web e me apaixonei por testes de software, prezo a satisfação e a qualidade do cliente e do produto, focando sempre na melhoria. Possuo conhecimento em HTML, CSS e JavaScript moderno (ES6+). Conheciemento da biblioteca React e a biblioteca Redux. Conhecimento em Bash e os sistemas de controle de versionamento Git e Github.
-
-Estudo também backend e em breve ciências da computação.
-
-Apaixonada e me aprofundando na área de desenvolvimento de teste de software.
-Implementação de testes automatizados (unitários e de integração) utilizando Jest e React Testing Library, Atualmente estudando o Cypress.
-
-Em breve Engenheira de garantia de qualidade, Analista de Teste de Software
- especialista em testes automatizados, sempre aprendendo e trabalhando para melhorar o processo de desenvolvimento de software.
-Estudando Atualmente na Trybe e na Ultima School
+<h3 align="left" >Analista de Teste de Software, Testes Manuais, Testes Automatizados, sempre aprendendo e trabalhando para melhorar o processo de desenvolvimento de software.
+ Possuo Forte conhecimento em HTML, CSS e JavaScript moderno (ES6+). Conhecimento da biblioteca React e a biblioteca Redux.  Conhecimento em Bash e os sistemas de controle de versionamento Git e Github, POO, SQL, MYSQL, node.js, typescript, mongoDB.
+ 
+Tenho habilidades em Implementação de testes automatizados (unitários e de integração) utilizando Jest e React Testing Library, Atualmente estudando o Cypress.
+Forte experiência em resolução de problemas e em trabalhos em grupo.
+Fortes habilidades de comunicão, aprendizado continuo e resolução de problemas.
+Grande expreciência com as metologias ágeis Scrum e Kanban.
+Estudando Atualmente desenvolvimento Fullstack na Trybe e Analise de teste de Software na Ultima School
 .</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
